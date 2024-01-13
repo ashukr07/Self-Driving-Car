@@ -1,5 +1,5 @@
 # Self-Driving-Car
-#Video Demonstation
+# Video Demonstation
 Video Link : https://drive.google.com/file/d/1LdziNWauoXAnktX89WnX0spevTBp9wuv/view?usp=sharing
 # Simulation setup
 Install the Unity Hub which is needed to run the udacity simulation 
@@ -17,7 +17,7 @@ Now activate this environment
 conda activate sdcar
 ```
 <br><br>
-#Install all these python packages
+# Install all these python packages
 <br>
 opencv-contrib-python
 <br>
