@@ -13,7 +13,7 @@ We then flatten the output coming from convolutional layer to 1D array to feed t
 drive.py file connects the udacity simulator and our model the simulator sends the snapshot of the dashboard of the car that is preprocessed and then given to the model which predicts the steering angle that is given back to car in simulator.
 
 # Video Demonstation
-Video Link : https://drive.google.com/file/d/1LdziNWauoXAnktX89WnX0spevTBp9wuv/view?usp=sharing
+<a href="https://drive.google.com/file/d/1LdziNWauoXAnktX89WnX0spevTBp9wuv/view?usp=sharing">Video Link</a>
 # Simulation setup
 Install the Unity Hub which is needed to run the udacity simulation 
 https://unity.com/download
